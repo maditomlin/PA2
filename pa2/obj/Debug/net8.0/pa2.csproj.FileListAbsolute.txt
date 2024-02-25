@@ -1,0 +1,15 @@
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.AssemblyInfoInputs.cache
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.AssemblyInfo.cs
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.csproj.CoreCompileInputs.cache
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.sourcelink.json
+/Users/maditomlin/mis221/pa2/bin/Debug/net8.0/pa2
+/Users/maditomlin/mis221/pa2/bin/Debug/net8.0/pa2.deps.json
+/Users/maditomlin/mis221/pa2/bin/Debug/net8.0/pa2.runtimeconfig.json
+/Users/maditomlin/mis221/pa2/bin/Debug/net8.0/pa2.dll
+/Users/maditomlin/mis221/pa2/bin/Debug/net8.0/pa2.pdb
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.dll
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/refint/pa2.dll
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.pdb
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/pa2.genruntimeconfig.cache
+/Users/maditomlin/mis221/pa2/obj/Debug/net8.0/ref/pa2.dll
